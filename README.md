@@ -2,6 +2,8 @@
 
 This implementation uses the pseudo System.Random to generate values in the range of 0 to 100. These values are used as a basis for establishing the height of the cave walls and uses Cellular Automaton to smooth them. And then each Tile represented by a Char in a Color is printed in the Console.
 
+![Cave Generation!](images/cave.jpg)
+
 ### Example of implementation
 
     //Generate cave data
